@@ -1271,6 +1271,35 @@ body {
     padding: 0 1rem;
   }
 }
+.cid-qUlk88VUrm {
+  background-color: #b2ccd2;
+  overflow: hidden !important;
+}
+.cid-qUlk88VUrm .container-fluid {
+  padding: 0 5rem;
+}
+.cid-qUlk88VUrm .animated-element {
+  color: #efefef;
+}
+.cid-qUlk88VUrm .img-block {
+  align-self: center;
+}
+@media (max-width: 1199px) {
+  .cid-qUlk88VUrm .mbr-figure img {
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qUlk88VUrm .container-fluid {
+    padding: 0 1rem;
+  }
+  .cid-qUlk88VUrm .mbr-figure {
+    margin-top: 1rem;
+  }
+}
+.cid-qUlk88VUrm .mbr-section-title {
+  color: #a38dfd;
+}
 .cid-qUhdefEa4W .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
@@ -1705,11 +1734,66 @@ body {
 }
 .cid-qUhedVVqET .title-cont,
 .cid-qUhedVVqET .mbr-section-title {
-  color: #5a31fb;
+  color: #b2ccd2;
   text-align: center;
 }
 .cid-qUhedVVqET .mbr-section-subtitle,
 .cid-qUhedVVqET .mbr-section-btn {
   color: #000000;
   text-align: center;
+}
+.cid-qUhedVVqET .card-title,
+.cid-qUhedVVqET .card-img {
+  text-align: center;
+}
+.cid-qUn8AYHrkE {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: #ffffff;
+}
+.cid-qUn8AYHrkE .container-fluid {
+  padding: 0 2rem;
+}
+.cid-qUn8AYHrkE .mbr-section-title {
+  margin-bottom: 1rem;
+}
+.cid-qUn8AYHrkE .mbr-title {
+  padding: 0 1rem;
+}
+.cid-qUn8AYHrkE .mbr-section-subtitle {
+  margin-top: .8rem;
+  margin-bottom: 1.3rem;
+}
+.cid-qUn8AYHrkE .underline {
+  padding: .5rem 1rem .5rem 1rem;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+.cid-qUn8AYHrkE .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #a38dfd, #fe525b);
+  display: inline-block;
+}
+.cid-qUn8AYHrkE .image-wrap {
+  width: 100%;
+}
+.cid-qUn8AYHrkE .image-wrap img {
+  padding-bottom: 1rem;
+  width: 100%;
+  height: 100%;
+}
+.cid-qUn8AYHrkE .btn {
+  margin-top: 1rem;
+  margin-left: 0;
+  margin-right: 0;
+}
+.cid-qUn8AYHrkE .card-wrapper {
+  padding: 2rem;
+  margin-bottom: 3rem;
+}
+@media (max-width: 767px) {
+  .cid-qUn8AYHrkE .container-fluid {
+    padding: 0rem;
+  }
 }
