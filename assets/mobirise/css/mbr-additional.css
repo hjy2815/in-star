@@ -1756,6 +1756,8 @@ body {
 }
 .cid-qUn8AYHrkE .mbr-section-title {
   margin-bottom: 1rem;
+  color: #8264fd;
+  text-align: center;
 }
 .cid-qUn8AYHrkE .mbr-title {
   padding: 0 1rem;
@@ -1796,4 +1798,105 @@ body {
   .cid-qUn8AYHrkE .container-fluid {
     padding: 0rem;
   }
+}
+.cid-qUEt4MQozd {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: #ffffff;
+}
+.cid-qUEt4MQozd .container-fluid {
+  padding: 0 3rem;
+}
+.cid-qUEt4MQozd .table-wrap {
+  margin: 0 1rem 3rem 1rem;
+  border: 1px solid #efefef;
+  border-radius: 3%;
+  padding: 3rem;
+  transition: all 0.3s ease-in-out;
+}
+.cid-qUEt4MQozd .table-wrap:hover {
+  transition: all 0.3s ease-in-out;
+  background-color: #a38dfd;
+}
+.cid-qUEt4MQozd .table-wrap:hover .table-pricing,
+.cid-qUEt4MQozd .table-wrap:hover .table-icon {
+  color: #ffffff !important;
+}
+.cid-qUEt4MQozd .table-wrap:hover .table-heading,
+.cid-qUEt4MQozd .table-wrap:hover .mbr-section-subtitle {
+  color: #ffffff !important;
+}
+.cid-qUEt4MQozd .section-heading {
+  margin-bottom: 2rem;
+}
+.cid-qUEt4MQozd .table-heading {
+  margin-bottom: 2em;
+}
+.cid-qUEt4MQozd .underline {
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+}
+.cid-qUEt4MQozd .underline .line {
+  width: 6rem;
+  height: 3px;
+  background: linear-gradient(135deg, #a38dfd, #fe525b);
+  display: inline-block;
+}
+.cid-qUEt4MQozd ul {
+  word-wrap: break-word;
+  padding: 0 4rem;
+  margin: 0;
+  list-style: none;
+}
+.cid-qUEt4MQozd ul li {
+  display: flex;
+  flex-direction: row;
+  padding: 0.7em 0;
+  align-items: flex-end;
+}
+.cid-qUEt4MQozd ul li span {
+  font-size: 32px;
+  color: #000000;
+}
+.cid-qUEt4MQozd hr {
+  display: none;
+  background: #efefef;
+}
+.cid-qUEt4MQozd hr {
+  display: block;
+}
+.cid-qUEt4MQozd .table-heading,
+.cid-qUEt4MQozd .table-pricing,
+.cid-qUEt4MQozd .table-icon {
+  color: #a38dfd;
+  text-align: left;
+  transition: all 0.3s ease-in-out;
+}
+.cid-qUEt4MQozd .mbr-section-subtitle {
+  color: #767676;
+  transition: all 0.3s ease-in-out;
+}
+.cid-qUEt4MQozd .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-qUEt4MQozd .mbr-iconfont {
+  font-size: 50px;
+}
+@media (max-width: 1200px) {
+  .cid-qUEt4MQozd .table-wrap {
+    margin: 1.5rem 0 0 0;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qUEt4MQozd .container-fluid {
+    padding: 0 0rem;
+  }
+}
+.cid-qUEt4MQozd .table-pricing,
+.cid-qUEt4MQozd .table-icon {
+  text-align: center;
+}
+.cid-qUEt4MQozd .mbr-section-subtitle,
+.cid-qUEt4MQozd .mbr-section-btn DIV {
+  text-align: center;
 }
