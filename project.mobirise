@@ -52,7 +52,7 @@
         "main": true,
         "title": "In-star",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>In-star</title>\n    <meta property=\"og:url\" content=\"http://in-star.kr/\">\n    <meta property=\"og:title\" content=\"In-star\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/HFV3R6F.jpg\">\n    <meta property=\"og:description\" content=\"고객님의 SNS 마케팅을 도와드립니다\">\n    <meta name=\"description\" content=\"고객님의 SNS 마케팅을 도와드립니다\">\n    <meta name=\"keywords\" content=\"인스타그램,인스타그램자동관리,팔로우늘리기,좋아요늘리기\">\n<meta name=\"naver-site-verification\" content=\"d133dc052ae11e3ed5d3e58e5e2f3c9803232c17\"/>\n<meta name=\"google-site-verification\" content=\"F_ud-irOPgNVwIr2meFpLmZ21Y6Z23GpFex5tGTYNz4\" />\n</head>",
+        "header_custom": "<head>\n    <title>In-star</title>\n    <meta property=\"og:url\" content=\"http://in-star.kr/\">\n    <meta property=\"og:title\" content=\"In-star\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/HFV3R6F.jpg\">\n    <meta property=\"og:description\" content=\"고객님의 SNS 마케팅을 도와드립니다\">\n    <meta name=\"description\" content=\"고객님의 SNS 마케팅을 도와드립니다\">\n    <meta name=\"keywords\" content=\"인스타그램,인스타그램자동관리,팔로우늘리기,좋아요늘리기\">\n<meta name=\"naver-site-verification\" content=\"d133dc052ae11e3ed5d3e58e5e2f3c9803232c17\"/>\n<meta name=\"google-site-verification\" content=\"F_ud-irOPgNVwIr2meFpLmZ21Y6Z23GpFex5tGTYNz4\" />\n<meta name = \"msvalidate.01\"content = \"09965CE892D32166EC8B5102B858DAE2\"/>\n</head>",
         "footer_custom": "",
         "html_before": ""
       },
